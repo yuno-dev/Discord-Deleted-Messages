@@ -1,6 +1,5 @@
-Discord-Voice-Exploit
+Delete all messages in a Discord channel or DM
 
-Simple discord voice exploit to show as muted while not being muted.
+Simple Delete all messages in a Discord channel or DM 
 
-
-first turn off your microphone, then press ctrl + shift + i, click the console from the opened tab, then paste this code
+first  press ctrl + shift + i, click the console from the opened tab, then paste this code
